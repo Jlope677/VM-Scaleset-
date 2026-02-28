@@ -12,12 +12,6 @@ success
 
 ------------------------------------------------------------------------
 
-# 🗂️ Repository Structure
-
-azure-vmss-lab/ │ ├── README.md └── images/ ├── vmss-01.png ├──
-vmss-02.png ├── ... └── vmss-39.png
-
-------------------------------------------------------------------------
 
 # 🏗️ Deployment Steps
 
@@ -27,8 +21,8 @@ vmss-02.png ├── ... └── vmss-39.png
 -   Search for Virtual machine scale set
 -   Click Create
 
-📷 Screenshot\
-images/vmss-01.png
+
+![vm1](https://github.com/user-attachments/assets/540d634e-5b58-4bb3-a770-4773a1921a0f)
 
 ------------------------------------------------------------------------
 
